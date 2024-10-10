@@ -1,5 +1,5 @@
 # Author: ZIJIE ZHENG
-# Thanks to previous work you can find at 'https://github.com/zihaophys/twisted_bilayer_graphene'
+# Thanks to the previous work done by zihaophys available at 'https://github.com/zihaophys/twisted_bilayer_graphene'
 
 from tqdm import tqdm
 from numpy import *
